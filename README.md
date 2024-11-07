@@ -1,9 +1,6 @@
 
 # **Coffee-Shop-Sales Data Analysis and Visualization Project**
 
-## **Overview**
-This project focuses on analyzing and visualizing sales data using SQL and Power BI. The goal is to provide clear insights into sales trends, order volumes, quantities sold, and performance variations across different dates and store locations. The project leverages dynamic and interactive dashboards to enable deep data exploration and informed business decisions.
-
 ## **Objective**
 To perform a comprehensive analysis of sales data using SQL for data extraction and aggregation, and Power BI for creating intuitive visualizations. The analysis will highlight monthly sales trends, order patterns, quantities sold, and differences across specific periods and store locations.
 
